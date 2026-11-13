@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="./kasymir-logo.png" width="120" alt="Kasymir" />
-
-# Kasymir
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./kasymir-wordmark-white-text.png" />
+  <img src="./kasymir-wordmark-dark-text.png" width="320" alt="Kasymir" />
+</picture>
 
 **The tools of the giants. Now in every small business.**
 
